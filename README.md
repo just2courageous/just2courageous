@@ -27,7 +27,7 @@
 - **GitOps (Git Operations):** Argo CD (continuous delivery), Argo Rollouts (progressive delivery)
 - **Observability (monitoring/logging):** Prometheus (metrics), Grafana (dashboards), CloudWatch Logs (logging)
 
-  ## 🧩 How my projects connect (end-to-end DevOps flow)
+## 🧩 How my projects connect (end-to-end DevOps flow)
 
 * **Terraform [Infrastructure as Code]** provisions the foundation: **VPC [Virtual Private Cloud] + EKS [Elastic Kubernetes Service] + IAM [Identity and Access Management] + OIDC [OpenID Connect]**
 * **kubectl [Kubernetes Command Line Tool] / Helm [Helm Package Manager]** deploy platform add-ons and workloads to the cluster
