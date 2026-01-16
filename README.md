@@ -13,10 +13,11 @@
 ## 🚀 Featured Projects
 | Project | What it proves | Stack | Demo |
 | --- | --- | --- | --- |
-| **gg-rollouts-hpa** :contentReference[oaicite:1]{index=1} | Progressive delivery + autoscaling on Kubernetes (container orchestration) | AWS (Amazon Web Services) EKS (Elastic Kubernetes Service), Argo Rollouts (progressive delivery), HPA (Horizontal Pod Autoscaler) | YouTube (video platform) link |
-| **gg-logging-cloudwatch** :contentReference[oaicite:2]{index=2} | Centralized logging with secure auth | Fluent Bit (log shipping), CloudWatch Logs (logging), IRSA (IAM Roles for Service Accounts), OIDC (OpenID Connect) | YouTube (video platform) link |
-| **gg-ansible-ec2** :contentReference[oaicite:3]{index=3} | Infrastructure automation on AWS (Amazon Web Services) | Terraform (Infrastructure as Code), EC2 (Elastic Compute Cloud), Ansible (automation) | YouTube (video platform) link |
-| **gg-eks-terraform** :contentReference[oaicite:4]{index=4} | Full EKS (Elastic Kubernetes Service) build with IaC (Infrastructure as Code) | Terraform (Infrastructure as Code), VPC (Virtual Private Cloud), IAM (Identity and Access Management) | YouTube (video platform) link |
+| [gg-rollouts-hpa](https://github.com/just2courageous/gg-rollouts-hpa) | Progressive delivery + autoscaling on Kubernetes (container orchestration) | AWS (Amazon Web Services) EKS (Elastic Kubernetes Service), Argo Rollouts (progressive delivery), HPA (Horizontal Pod Autoscaler) | (add link) |
+| [gg-logging-cloudwatch](https://github.com/just2courageous/gg-logging-cloudwatch) | Centralized logging with secure auth | Fluent Bit (log shipping), CloudWatch Logs (logging), IRSA (IAM Roles for Service Accounts), OIDC (OpenID Connect) | (add link) |
+| [gg-ansible-ec2](https://github.com/just2courageous/gg-ansible-ec2) | Infrastructure automation on AWS (Amazon Web Services) | Terraform (Infrastructure as Code), EC2 (Elastic Compute Cloud), Ansible (automation) | (add link) |
+| [gg-eks-terraform](https://github.com/just2courageous/gg-eks-terraform) | Full EKS (Elastic Kubernetes Service) build with IaC (Infrastructure as Code) | Terraform (Infrastructure as Code), VPC (Virtual Private Cloud), IAM (Identity and Access Management) | (add link) |
+
 
 ## 🧰 Tech I use
 - **AWS (Amazon Web Services):** EKS (Elastic Kubernetes Service), EC2 (Elastic Compute Cloud), ECR (Elastic Container Registry), IAM (Identity and Access Management), CloudWatch (logging/metrics)
