@@ -7,8 +7,8 @@
 ## 🔗 Links
 - **Website:** https://courageerhabor.com
 - **GitHub (GitHub):** https://github.com/just2courageous
-- **LinkedIn (professional network):** PASTE YOUR LINK HERE
-- **Email:** PASTE YOUR EMAIL HERE
+- **LinkedIn (professional network):** https://linkedin.com/in/courageerhabor/
+- **Email:** erhacour@gmail.com
 
 ## 🚀 Featured Projects
 | Project | What it proves | Stack | Demo |
